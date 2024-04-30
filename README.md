@@ -1,6 +1,6 @@
 # naPorta Code Challenge :)
 
-![naPorta](./.github/naporta-logo.svg)
+![naPorta](./.github/naporta-log.png)
 
 ## Sobre a naPorta
 
