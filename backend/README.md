@@ -1,4 +1,4 @@
-# Desafio de código Backend NodeJS
+# Desafio de código Backend
 
 #### Nesse desafio serão avaliados
 * Seu domínio em Back-End
